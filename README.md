@@ -1,2 +1,2 @@
-# php_ejemplos
+# PHP_EJEMPLOS
 ejemplos de php
